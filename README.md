@@ -14,7 +14,11 @@ This project is an interactive Power BI dashboard analyzing BMW global sales dat
 - Data modeling and transformation  
 
 ## Screenshots
-(Add images here)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/668233f1-0e82-40a1-9c7e-5bf5bb5c725d" width="800"/>
+</p>
+
+
 
 ## Purpose
 The goal of this project was to analyze sales data and present insights in a clear and interactive way.
